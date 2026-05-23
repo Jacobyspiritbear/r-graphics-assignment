@@ -1,10 +1,3 @@
-# ============================================================
-# R Graphics Examples — Assignment Task 1
-# Author: [Your Name]
-# Date:   2026-05-23
-# Description: Two R graphics examples using Base R and ggplot2
-# ============================================================
-
 # ---- Plot 1: Base R Scatter Plot ----
 # Dataset: mtcars (built-in)
 # Shows: MPG vs. Weight, colored by cylinder count + OLS regression line
